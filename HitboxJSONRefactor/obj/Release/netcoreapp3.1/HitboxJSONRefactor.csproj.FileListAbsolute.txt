@@ -1,0 +1,15 @@
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\HitboxJSONRefactor.exe
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\HitboxJSONRefactor.deps.json
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\HitboxJSONRefactor.runtimeconfig.json
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\HitboxJSONRefactor.runtimeconfig.dev.json
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\HitboxJSONRefactor.dll
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\HitboxJSONRefactor.pdb
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.AssemblyInfoInputs.cache
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.AssemblyInfo.cs
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.csproj.CoreCompileInputs.cache
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.csproj.CopyComplete
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.dll
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.pdb
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.genruntimeconfig.cache
+D:\Projects\ShootThis-Tools\HitboxJSONRefactor\obj\Release\netcoreapp3.1\HitboxJSONRefactor.csprojAssemblyReference.cache

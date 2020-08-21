@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBmzvU64C8YksGIwU2ZS2t6LsHHb2N+UnYk0g4U4vAhoUx8H1V+fGWyISLrB2jt0a2o86G+oR7aOwTmbWiPn4A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ShootThis-Tools\\HitboxJSONRefactor\\HitboxJSONRefactor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uplay\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
