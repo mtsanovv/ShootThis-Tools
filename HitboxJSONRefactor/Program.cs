@@ -14,7 +14,6 @@ namespace HitboxJSONRefactor
             {
                 if (args.Length > 0)
                 {
-                    Console.WriteLine(args[0]);
                     Dictionary<string, dynamic> jsonFile = JsonConvert.DeserializeObject<Dictionary<string, dynamic>>(File.ReadAllText(args[0]));
 
                     foreach (var rigidBody in jsonFile["rigidBodies"])
